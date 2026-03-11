@@ -1,0 +1,24 @@
+{
+    "owner": {
+        "username": "aiforafrica",
+        "email": "officialai4africa@gmail.com"
+    },
+    "subdomain": "aiforafrica",
+    "records": [
+        {
+            "type": "CNAME",
+            "value": "aiforafrica.github.io",
+            "name": "aiforoafrica"
+        },
+        {
+            "type": "MX",
+            "name": "aiforafrica",
+            "target": "mx2.improvmx.com"
+        },
+        {
+            "type": "TXT",
+            "name": "aiforafrica",
+            "value": "v=spf1 include:spf.improvmx.com ~all"
+        }
+    ]
+}
